@@ -1,7 +1,7 @@
 /* CUSTOM TAILWIND FUNCTIONS:see tailwindcss function for @apply to learn more */
 /* dashboard buttons */
 // .buttons {
-//     @apply text-white;
+//     @apply text-white
 //     @apply font-medium;
 //     @apply px-3;
 //     @apply py-2;
@@ -38,3 +38,7 @@
 //     @apply text-base;
 //     @apply font-medium;
 // }
+
+.buttons {
+    color: white;
+}
